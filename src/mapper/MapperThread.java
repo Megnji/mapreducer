@@ -24,8 +24,9 @@ public class MapperThread implements Mapper, Callable<Integer>{
 
 
 	@Override
-	public void map(OutCollector c, Tuple t) {
+	public int map(Tuple t) {
 		// TODO Auto-generated method stub
+		return 1;
 		
 	}
 
