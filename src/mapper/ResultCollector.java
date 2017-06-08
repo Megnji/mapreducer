@@ -8,7 +8,7 @@ import java.util.concurrent.FutureTask;
 
 /**
  * Finalize the result and call Redlib apis for generating the result.
- * @author megnji
+ * @author wykbill
  *
  */
 public class ResultCollector {

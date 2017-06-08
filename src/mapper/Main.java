@@ -1,9 +1,11 @@
 package mapper;
 
+import mapper.BigFileReader;
+
 /**
  * Show how to use BigFileReader, test only, should not show up in your assignment
  * Copy from : https://github.com/yongzhidai/ToolClass/tree/master/src/main/java/cn/dyz/tools/file
- * @author megnji
+ * @author wykbill
  */
 public class Main {
 
